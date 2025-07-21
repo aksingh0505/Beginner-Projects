@@ -4,13 +4,13 @@ A collection of beginner-friendly Python projects to help build basic programmin
 
 ## 🔹 Projects Included
 
-### 1. [BMI Calculator](./BMI-Project)
+### 1. [BMI Calculator]
 A simple program to calculate Body Mass Index based on weight and height.  
 **Files:**
 - `bmi_calculator.py`: Core logic
 - `README_BMI.md`: Documentation
 
-### 2. [ATM Simulator](./ATM-Project)
+### 2. [ATM Simulator]
 A basic text-based ATM interface to check balance, deposit, and withdraw money.  
 **Files:**
 - `atm_project.py`: Core logic
